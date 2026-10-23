@@ -231,5 +231,3 @@ Projeto desenvolvido por Dani-Etec.
 Este projeto não possui uma licença especificada no repositório.
 
 ---
-
-Se quiser, posso também criar uma versão mais detalhada do README em inglês ou incluir exemplos de requisições cURL para cada endpoint da API.
